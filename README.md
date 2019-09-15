@@ -1,5 +1,7 @@
 # PanelCV
 
+This is the CV Designed for Cartographic QC Manager (Self Driving Autonomy & HD Maps)
+
 This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
 
 I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
