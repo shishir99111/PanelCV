@@ -1034,6 +1034,29 @@ ul.about {
 #profile_social a:hover{
     background-color: #fff;
 }
+
+/* #profile_social1 a{
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    margin: 0px 0px 0px 5px;
+    padding: 0;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    font-size: 24px;
+    float: left;
+    display: block;
+    color : #fff;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+
+#profile_social1 a:hover{
+    background-color: #fff;
+} */
 .widget-profil .image-holder{
     position: relative;
     margin: 15px auto;
@@ -1101,7 +1124,7 @@ ul.about {
         margin-bottom: 20px;
         float: none;
     }
-    #profile_social {
+    .top_profile_social {
         display: none;
     }
     #profile_desc {
@@ -1115,7 +1138,7 @@ ul.about {
         margin-bottom: 20px;
         float: none;
     }
-    #profile_social {
+    .top_profile_social {
         display: none;
     }
     #profile_desc {
@@ -1138,7 +1161,7 @@ ul.about {
         margin-bottom: 20px;
         float: none;
     }
-    #profile_social {
+    .top_profile_social {
         display: none;
     }
 }
@@ -1158,7 +1181,7 @@ ul.about {
         float: none;
     }
 
-    #profile_social {
+    .top_profile_social {
         display: none;
     }
     #profile_desc {
